@@ -1,7 +1,7 @@
-## Opensea Rescue
+## Opensea Listing Checker
 
-- Short set of scripts monitoring bugs & potential exploits with Opensea APIs
+Author: Beats2510
 
-### Currently available
-- `snipe.py`: Check if assets are under the risks of being purchased at greatly discounted price due to Opensea API listing exploit. Original exploit mentioned in 
-[this tweet](https://twitter.com/cap10bad/status/1476900859460169732).
+- Short set of scripts monitoring listings on OpenSea and checking OpenSea list orders with Rarible's active listings
+
+- `snipe.py`: Check if assets are under the risks of being purchased at greatly discounted price
